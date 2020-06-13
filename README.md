@@ -1,2 +1,0 @@
-# DocTemp
-Doc-Temp
